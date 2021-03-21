@@ -1,0 +1,13 @@
+/**
+ * @name Determination Mono Font
+ * @description Changes discord font to "determination mono," please note this was only tested with stable, due to how BetterDiscord on PTB/Canary, so Canary and PTB will have a few bugs.
+ * @author @Nostalgia#5187
+ * @version 0.4
+ * @website https://discord.gg/e3t2vXd
+ * @source 
+ * @updateUrl 
+ */
+
+body {
+	font-family: "determination mono", cursive;
+}
