@@ -1,5 +1,5 @@
 Hello, thanks for downloading Font.theme.css.
-This is a theme for BetterDiscord designed to give determination mono font.
+This is a theme for BetterDiscord designed to give determination mono font to discord.
 
 
 To install, place Font.theme.css to %APPDATA%\betterdiscord\themes > Discord > Settings > Themes > Determination Mono Font v(VERSION) by @Nostalgia#5187 > "Enable Switch" Toggle on.
