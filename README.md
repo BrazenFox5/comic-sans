@@ -1,4 +1,4 @@
-Hello, thanks for downloading Font.theme.css.
+Hello stranger.
 This is a theme for BetterDiscord designed to give determination mono font to discord.
 
 
