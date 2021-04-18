@@ -1,0 +1,22 @@
+/**
+ * @name Comic Sans Font
+ * @description Changes discord font to "Comic Sans," please note this was only tested with stable, due to how BetterDiscord on PTB/Canary, so Canary and PTB will have a few bugs. (Heyper edited this version, tysm.) Updated README.md
+ * @author @Nostalgia#5187
+ * @version 0.9.1
+ * @website https://discord.gg/e3t2vXd
+ * @source https://github.com/BrazenFox5/comic-sans
+ * @updateUrl 
+ */
+
+* {
+	font-family: "Determination Mono", cursive !important;
+}
+
+@font-face {
+	font-family: "Determination Mono"
+	src: url(DeterminationMonoWeb.ttf) format("truetype");
+}
+
+@nothing {/** Web
+    This section here is so I remember in case it breaks. It will not do anything. 
+}
